@@ -118,7 +118,7 @@ Este ejercicio consiste en crear un proyecto en Java llamado `EjercicioCiudad`, 
 
 ### Casa 1
 
-### Descripción del Proyecto **Casa**: tiene como objetivo almacenar y mostrar la información básica de una casa, como la ciudad, barrio, color, número de pisos, habitaciones, baños y cocinas. Estos atributos son constantes y se inicializan dentro de la clase **Casa**. 
+Descripción del Proyecto **Casa**: tiene como objetivo almacenar y mostrar la información básica de una casa, como la ciudad, barrio, color, número de pisos, habitaciones, baños y cocinas. Estos atributos son constantes y se inicializan dentro de la clase **Casa**. 
 
 ### Clases 1. 
 
